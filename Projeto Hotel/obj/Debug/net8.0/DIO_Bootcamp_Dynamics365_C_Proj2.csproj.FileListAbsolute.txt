@@ -1,0 +1,14 @@
+C:\Users\evert\Downloads\Projeto Hotel\bin\Debug\net8.0\DIO_Bootcamp_Dynamics365_C_Proj2.exe
+C:\Users\evert\Downloads\Projeto Hotel\bin\Debug\net8.0\DIO_Bootcamp_Dynamics365_C_Proj2.deps.json
+C:\Users\evert\Downloads\Projeto Hotel\bin\Debug\net8.0\DIO_Bootcamp_Dynamics365_C_Proj2.runtimeconfig.json
+C:\Users\evert\Downloads\Projeto Hotel\bin\Debug\net8.0\DIO_Bootcamp_Dynamics365_C_Proj2.dll
+C:\Users\evert\Downloads\Projeto Hotel\bin\Debug\net8.0\DIO_Bootcamp_Dynamics365_C_Proj2.pdb
+C:\Users\evert\Downloads\Projeto Hotel\obj\Debug\net8.0\DIO_Bootcamp_Dynamics365_C_Proj2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\Downloads\Projeto Hotel\obj\Debug\net8.0\DIO_Bootcamp_Dynamics365_C_Proj2.AssemblyInfoInputs.cache
+C:\Users\evert\Downloads\Projeto Hotel\obj\Debug\net8.0\DIO_Bootcamp_Dynamics365_C_Proj2.AssemblyInfo.cs
+C:\Users\evert\Downloads\Projeto Hotel\obj\Debug\net8.0\DIO_Bootcamp_Dynamics365_C_Proj2.csproj.CoreCompileInputs.cache
+C:\Users\evert\Downloads\Projeto Hotel\obj\Debug\net8.0\DIO_Bootcamp_Dynamics365_C_Proj2.dll
+C:\Users\evert\Downloads\Projeto Hotel\obj\Debug\net8.0\refint\DIO_Bootcamp_Dynamics365_C_Proj2.dll
+C:\Users\evert\Downloads\Projeto Hotel\obj\Debug\net8.0\DIO_Bootcamp_Dynamics365_C_Proj2.pdb
+C:\Users\evert\Downloads\Projeto Hotel\obj\Debug\net8.0\DIO_Bootcamp_Dynamics365_C_Proj2.genruntimeconfig.cache
+C:\Users\evert\Downloads\Projeto Hotel\obj\Debug\net8.0\ref\DIO_Bootcamp_Dynamics365_C_Proj2.dll
